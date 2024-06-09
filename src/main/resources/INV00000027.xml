@@ -1,0 +1,311 @@
+<invoice customerAccountCode="CA_2000000021" customerId="CUST_2000000021" id="101"
+    invoiceCounter="00000027" number="INV00000027" templateName="invoice" type="INV">
+  <header>
+    <provider code="CT" description="CZETSUYATECH">
+      <bankCoordinates>
+        <ics>FRXXZZZ123456</ics>
+        <iban>FR763000600001123456790189</iban>
+        <bic>CTDEFRPPCCT</bic>
+      </bankCoordinates>
+    </provider>
+    <customer brand="" category="CLIENT" code="CUST_2000000021" externalRef1="" externalRef2=""
+        id="565" jobTitle="" registrationNo="" sellerCode="CZETSUYATECH" vatNo="">
+      <address>
+        <address1/>
+        <address2/>
+        <address3/>
+        <city/>
+        <postalCode/>
+        <state/>
+        <country/>
+        <countryName/>
+      </address>
+      <contact/>
+    </customer>
+    <seller code="CZETSUYATECH" description="CZETSUYATECH">
+      <address>
+        <address1/>
+        <address2/>
+        <address3/>
+        <city/>
+        <postalCode/>
+        <state/>
+        <country/>
+        <countryName/>
+      </address>
+      <contact/>
+    </seller>
+    <customerAccount accountTerminated="false" code="CA_2000000021" currency="EUR"
+        description="Edward's Account" externalRef1="" externalRef2="" id="566" jobTitle=""
+        language="English" vatNo="xxx">
+      <contact email="czetsuya@gmail.com" fax="" mobile="" phone="(303) 829-5342"/>
+      <paymentMethod type="CHECK"/>
+      <name>
+        <quality/>
+        <name>Edward's Account</name>
+      </name>
+      <address>
+        <address1>1234 Balamb Garden</address1>
+        <address2/>
+        <address3/>
+        <city>Los Banos</city>
+        <postalCode>4030</postalCode>
+        <state/>
+        <country>PH</country>
+        <countryName>Philippines</countryName>
+      </address>
+    </customerAccount>
+    <billingAccount billingCycleCode="MONTHLY_POST_PAID" code="BA_2000000021"
+        description="BA_2000000021" endPeriod="31/05/2024" externalRef1="" externalRef2="" id="567"
+        jobTitle="" startPeriod="09/05/2024">
+      <billingCycle code="MONTHLY_POST_PAID" description="Monthly Invoice Cycle" id="6">
+      </billingCycle>
+      <email>czetsuya@gmail.com</email>
+      <name>
+        <quality/>
+        <name>Edward's Account</name>
+      </name>
+      <address>
+        <address1>1234 Balamb Garden</address1>
+        <address2/>
+        <address3/>
+        <city>Los Banos</city>
+        <postalCode>4030</postalCode>
+        <state/>
+        <country>PH</country>
+        <countryName>Philippines</countryName>
+      </address>
+      <message/>
+      <billTo>
+        <![CDATA[Edward's Account<br/>1234 Balamb Garden<br/>Los Banos, Laguna 4030<br/>PH]]>
+      </billTo>
+      <fees/>
+      <charges licensePlate="NLEDW_LE2021"
+          urlImage="https://czetsuyatech.com/PHEDW_LE2021.latest.jpg">
+        <charge amount="-161.000000000000" date="05/28/24 19:45" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+        <charge amount="161.000000000000" date="5/9/24 9:29 AM" description="GoPlus"
+            transactionId="566170"/>
+        <charge amount="161.000000000000" date="5/10/24 7:52 AM" description="GoPlus"
+            transactionId="566171"/>
+      </charges>
+      <topups/>
+    </billingAccount>
+    <invoiceDate>13/05/2024</invoiceDate>
+    <dueDate>13/06/2024</dueDate>
+    <paymentMethod>CHECK</paymentMethod>
+    <comment>
+    </comment>
+    <categories>
+      <category code="CLASSIC_USAGE" label="Service Usage">
+        <amountWithoutTax>322.000000000000</amountWithoutTax>
+        <subCategories>
+          <subCategory amountWithoutTax="322.000000000000" code="CLASSIC_USAGE"
+              label="Service Usage" taxCode="TAX_00" taxPercent="0.000000000000"/>
+        </subCategories>
+      </category>
+    </categories>
+    <discounts/>
+    <locale>en-US</locale>
+  </header>
+  <amount>
+    <currency>EUR</currency>
+    <amountWithoutTax>322.000000000000</amountWithoutTax>
+    <amountWithTax>322.000000000000</amountWithTax>
+    <netToPay>322.000000000000</netToPay>
+    <taxes total="0.000000000000">
+      <tax code="TAX_00" id="1">
+        <name>0 Percent Tax</name>
+        <percent>0.000000000000</percent>
+        <amount>0.000000000000</amount>
+        <amountHT>322.000000000000</amountHT>
+      </tax>
+    </taxes>
+  </amount>
+  <detail>
+    <userAccounts>
+      <userAccount code="UA_2000000021" description="UA_2000000021" id="568" jobTitle="">
+        <customFields>
+          <customField code="CUSTOMER_NUMBER" description="Customer Number">1190017814</customField>
+          <customField code="ACCOUNT_NUMBER" description="Account Number">2000000021</customField>
+        </customFields>
+        <subscriptions>
+          <subscription code="SUBS_2000000021_NLEDW_LE2021_1590017830"
+              description="SUBS_2000000021_NLEDW_LE2021_1590017830" id="309" offerCode="GoPlus">
+            <subscriptionDate>13/10/2023</subscriptionDate>
+            <endAgreementDate/>
+          </subscription>
+        </subscriptions>
+        <name>
+          <quality/>
+          <firstName>Ed</firstName>
+          <name/>
+        </name>
+        <address>
+          <address1/>
+          <address2/>
+          <address3/>
+          <city/>
+          <postalCode/>
+          <state/>
+          <country/>
+          <countryName/>
+        </address>
+        <categories>
+          <category code="CLASSIC_USAGE" label="Service Usage">
+            <amountWithoutTax>322.000000000000</amountWithoutTax>
+            <subCategories>
+              <subCategory amountWithoutTax="322.000000000000" code="CLASSIC_USAGE"
+                  label="Service Usage" taxCode="TAX_00" taxPercent="0.000000000000">
+                <line code="GoPlus_CT"
+                    param1="fad4c36b-215a-308d-a19d-b6074543d414:fad4c36b-215a-308d-a19d-b6074543d414"
+                    param2="1" param3="566170">
+                  <walletOperation code="GoPlus_CT" periodEndDate="" periodStartDate=""/>
+                  <paramExtra>USAGE</paramExtra>
+                  <pricePlan code="GoPlus_CT" description="Price Plan for GoPlus CT"/>
+                  <label>
+                    GoPlus||EUR|1.0|0.00|161.00|161.00|0E-12|161.000000000000|161.000000000000|USE_TRX_PRICE
+                  </label>
+                  <unitAmountWithoutTax>161.000000000000</unitAmountWithoutTax>
+                  <amountWithoutTax>161.000000000000</amountWithoutTax>
+                  <quantity>1.000000000000</quantity>
+                  <usageDate>09/05/2024</usageDate>
+                  <edr accessCode="AP_2000000021_NLEDW_LE2021" dateParam1="" dateParam2=""
+                      dateParam3="" dateParam4="" dateParam5="" decimalParam1="161.000000000000"
+                      decimalParam2="" decimalParam3="" decimalParam4="" decimalParam5=""
+                      eventDate="2024-05-09T09:29:46" originBatch="API_192.168.67.123"
+                      originRecord="opencell.admin_1715247534640"
+                      parameter1="fad4c36b-215a-308d-a19d-b6074543d414:fad4c36b-215a-308d-a19d-b6074543d414"
+                      parameter2="1" parameter3="566170" parameter4="CHARGE_GoPlus_CT"
+                      parameter5="VTOLL" parameter6="NLEDW_LE2021" parameter7=""
+                      parameter8="USE_TRX_PRICE" parameter9="" quantity="1.000000000000"
+                      rejectReason="" status="RATED"
+                      subscription="SUBS_2000000021_NLEDW_LE2021_1590017830"/>
+                </line>
+                <line code="GoPlus_CT"
+                    param1="fad4c36b-215a-308d-a19d-b6074543d414:fad4c36b-215a-308d-a19d-b6074543d414"
+                    param2="1" param3="566171">
+                  <walletOperation code="GoPlus_CT" periodEndDate="" periodStartDate=""/>
+                  <paramExtra>USAGE</paramExtra>
+                  <pricePlan code="GoPlus_CT" description="Price Plan for GoPlus CT"/>
+                  <label>
+                    GoPlus||EUR|1.0|0.00|161.00|161.00|0E-12|161.000000000000|161.000000000000|USE_TRX_PRICE
+                  </label>
+                  <unitAmountWithoutTax>161.000000000000</unitAmountWithoutTax>
+                  <amountWithoutTax>161.000000000000</amountWithoutTax>
+                  <quantity>1.000000000000</quantity>
+                  <usageDate>10/05/2024</usageDate>
+                  <edr accessCode="AP_2000000021_NLEDW_LE2021" dateParam1="" dateParam2=""
+                      dateParam3="" dateParam4="" dateParam5="" decimalParam1="161.000000000000"
+                      decimalParam2="" decimalParam3="" decimalParam4="" decimalParam5=""
+                      eventDate="2024-05-10T07:52:12" originBatch="API_192.168.67.60"
+                      originRecord="opencell.admin_1715327638732"
+                      parameter1="fad4c36b-215a-308d-a19d-b6074543d414:fad4c36b-215a-308d-a19d-b6074543d414"
+                      parameter2="1" parameter3="566171" parameter4="CHARGE_GoPlus_CT"
+                      parameter5="VTOLL" parameter6="NLEDW_LE2021" parameter7=""
+                      parameter8="USE_TRX_PRICE" parameter9="" quantity="1.000000000000"
+                      rejectReason="" status="RATED"
+                      subscription="SUBS_2000000021_NLEDW_LE2021_1590017830"/>
+                </line>
+              </subCategory>
+            </subCategories>
+          </category>
+        </categories>
+      </userAccount>
+      <userAccount description="-">
+        <categories/>
+      </userAccount>
+    </userAccounts>
+  </detail>
+  <offers>
+    <offer code="GoPlus" description="GoPlus" id="1">
+      <customFields>
+        <customField code="CF_SHARED" description="Offer Shared">INDIVIDUAL</customField>
+      </customFields>
+    </offer>
+  </offers>
+  <services>
+    <service code="CT" description="CT" offerCode="GoPlus"/>
+  </services>
+  <priceplans>
+    <priceplan code="GoPlus_CT" description="Price Plan for GoPlus CT">
+    </priceplan>
+  </priceplans>
+  <orders/>
+  <qrCode
+      value="xxx"/>
+  <invoiceQRCodeEmail
+      value="xxx"/>
+  <summary currentBalance="-644.00" outstandingBalance="0.00" previousBalance="0.00"
+      totalAmountDue="322.00"/>
+</invoice>
